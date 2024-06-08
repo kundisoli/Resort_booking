@@ -1,0 +1,5 @@
+C:\Users\Kelz\Documents\Visual Studio 2010\Projects\Resort booking system\Resort booking system\obj\x86\Debug\Resort_booking_system.Booking_Details.resources
+C:\Users\Kelz\Documents\Visual Studio 2010\Projects\Resort booking system\Resort booking system\obj\x86\Debug\Resort_booking_system.LogIn_Form.resources
+C:\Users\Kelz\Documents\Visual Studio 2010\Projects\Resort booking system\Resort booking system\obj\x86\Debug\Resort_booking_system.Properties.Resources.resources
+C:\Users\Kelz\Documents\Visual Studio 2010\Projects\Resort booking system\Resort booking system\obj\x86\Debug\Resort_booking_system.Resorts.resources
+C:\Users\Kelz\Documents\Visual Studio 2010\Projects\Resort booking system\Resort booking system\obj\x86\Debug\Resort booking system.csproj.GenerateResource.Cache
